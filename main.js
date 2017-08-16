@@ -1,4 +1,4 @@
-var path = '/worker.js';
+var path = 'worker.js';
 
 var worker = new Worker(path);
 
